@@ -1,0 +1,18 @@
+
+      border-radius: 8px;
+      cursor: pointer;
+      text-decoration: none;
+    }
+    .button:hover {
+      background-color: #265df2;
+    }
+  </style>
+</head>
+<body>
+  <h1>Follow @mt_dump1 on Instagram</h1>
+  <p>Click the button below to view the profile:</p>
+  <a class="button" href="https://www.instagram.com/mt_dump1/?utm_source=ig_web_button_share_sheet" target="_blank">
+    Visit Instagram
+  </a>
+</body>
+</html>
